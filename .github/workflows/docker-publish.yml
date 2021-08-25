@@ -44,4 +44,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: sutin1990docker/latest1990:tagname
+          tags: sutin1990docker/webapitest:tagname1
